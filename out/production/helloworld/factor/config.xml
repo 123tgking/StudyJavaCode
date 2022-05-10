@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<config>
+    <!--类的名必须为所在包 + 自定义的类名，即全限定类名-->
+    <!--<className>factor.factorImp.fileLoggerFactor</className>-->
+    <className>dataBaseLoggerFactor</className>
+</config>
